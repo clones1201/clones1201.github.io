@@ -16,3 +16,12 @@
 #copyright a{
 	color:#666;
 }
+
+#canvas_div{
+    align-content: center;
+}
+
+#main_canvas{
+    width: 100%;
+    align-content: center;
+}
